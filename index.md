@@ -2,7 +2,7 @@
 ## Składniki
 
 #### Wszystko to co potrzebujesz!
-
+&nbsp; 
 
  * 1 i 1/4 szklanka mąki
  * 1 jajko
@@ -14,7 +14,7 @@
  * szczypta soli
  
 ## Przygotowanie
-
+&nbsp; 
 
  * Zmiksować wszystkie składniki w blenderze na gładką masę
  * Rozgrzać patelnię
