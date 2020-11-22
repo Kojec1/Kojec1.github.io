@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Kojec1/Kojec1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Składniki
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wszystko czego będziesz potrzebować do stworzenia przepysznych placków!
 
-### Markdown
+ * 1 i 1/4 szklanka mąki
+ * 1 jajko
+ * 1 i 1/4 szklanki maślanki
+ * 1/4 szklanki cukru pudru
+ * 1 łyżeczka proszku do pieczenia
+ * 1 łyżeczka sody
+ * 1/4 szklanki oleju roślinnego
+ * szczypta soli
+ 
+## Przygotowanie
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kojec1/Kojec1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ * Zmiksować wszystkie składniki w blenderze na gładką masę
+ * Rozgrzać patelnię
+ * Smażyć z dwóch stron na średnim ogniu
+ * Podawać z syropem klonowym, masłem lub cukrem!
