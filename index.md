@@ -1,7 +1,7 @@
 
 ## Składniki
 
-#### Wszystko czego będziesz potrzebować!
+#### Wszystko to co potrzebujesz!
 
 
  * 1 i 1/4 szklanka mąki
