@@ -1,7 +1,8 @@
 
 ## Składniki
 
-### Wszystko czego będziesz potrzebować do stworzenia przepysznych placków!
+#### Wszystko czego będziesz potrzebować!
+
 
  * 1 i 1/4 szklanka mąki
  * 1 jajko
@@ -13,6 +14,7 @@
  * szczypta soli
  
 ## Przygotowanie
+
 
  * Zmiksować wszystkie składniki w blenderze na gładką masę
  * Rozgrzać patelnię
