@@ -23,4 +23,4 @@
 
 ## Dodatkowa notka!
 
-Ostatnio miałem okazję pracować nad świetnym projektem o nazwie Project Labyrinth! Całość polega na implementacji kilku różnych algorytmów generowania oraz ubrania ich w szatę graficzną. Jeżeli zainteresowałem cię tym krótkim wstępem to zapraszam do zapoznania się z naszą [dokumentacją](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth/wiki)! 
+Ostatnio miałem okazję pracować nad świetnym projektem o nazwie Project Labyrinth! Zamysłem projektu jest implementacja kilku różnych algorytmów generowania labiryntu oraz ubrania ich w szatę graficzną. Całość była tworzona przy użyciu języka Python oraz bibliotek PyGame i TkInter. Jeżeli zainteresowałem cię tym krótkim wstępem to zapraszam do zapoznania się z naszą [dokumentacją](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth/wiki)! 
